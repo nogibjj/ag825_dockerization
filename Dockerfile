@@ -1,5 +1,5 @@
 # Use the official Python image from the Docker Hub
-FROM python:3.9-slim
+FROM gcr.io/distroless/python3-debian10
 
 # Set the working directory in the container
 # this allows for any subsequent commands to be run from this directory
