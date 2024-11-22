@@ -11,6 +11,7 @@ run:
 	docker run -p 5000:5000 $(IMAGE_NAME)
 
 # Remove the Docker image
+
 clean:
 	docker rmi $(IMAGE_NAME)
 
