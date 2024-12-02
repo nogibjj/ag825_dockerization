@@ -12,3 +12,7 @@ Duke University, Fall 2024 <br>
 The aim with this project was to understand the steps required in dockerizing a python application. We do this to ensure that an appplication can run on different systems, irrespective of IDE, OS and other constraints.
 
 This app primarily provides an interface to execute a 'Knock Knock' joke. 
+
+The image has been created on Docker (screenshot below):
+
+![](image.png)
